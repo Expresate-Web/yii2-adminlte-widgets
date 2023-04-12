@@ -1,8 +1,8 @@
 <?php
-namespace hail812\adminlte\widgets;
+namespace expresateweb\adminlte\widgets;
 
 use yii\base\ErrorException;
-use yii\bootstrap4\Widget;
+use yii\bootstrap5\Widget;
 use yii\helpers\Html;
 
 /**

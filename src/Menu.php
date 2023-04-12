@@ -1,5 +1,5 @@
 <?php
-namespace hail812\adminlte\widgets;
+namespace expresateweb\adminlte\widgets;
 
 use yii\helpers\ArrayHelper;
 use yii\helpers\Html;

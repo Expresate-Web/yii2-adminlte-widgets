@@ -1,7 +1,7 @@
 <?php
-namespace hail812\adminlte\widgets;
+namespace expresateweb\adminlte\widgets;
 
-use yii\bootstrap4\Widget;
+use yii\bootstrap5\Widget;
 
 /**
  * Class FlashAlert
